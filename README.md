@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranhasan1&label=Profile%20views&color=0e75b6&style=flat" alt="kamranhasan1" /> </p>
 
-- 🔭Trying to crafting digital experiences, **debugging reality.**
+- 🔭Trying to craft digital experiences, **debugging reality.**
 
 - 🌱 I’m currently learning **C++, DSA, Java, Nodejs**
 
